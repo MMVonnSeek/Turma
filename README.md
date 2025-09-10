@@ -15,4 +15,4 @@ Bem-vindo(a)! Missão: clonar este repositório e adicionar seu nome à lista ab
 
 ## Participantes
 - (adicione seu nome aqui seguindo as instruções acima)
-Jéssica Sousa
+Jéssica Sousa - Frontend
