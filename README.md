@@ -14,4 +14,4 @@ Bem-vindo(a)! Missão: clonar este repositório e adicionar seu nome à lista ab
 7. Aguarde revisão — **não** faça merge por conta própria.
 
 ## Participantes
-- (adicione seu nome aqui seguindo as instruções acima)
+- João César Antunes Viveiros
