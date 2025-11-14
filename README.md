@@ -16,9 +16,7 @@ Bem-vindo(a)! Missão: clonar este repositório e adicionar seu nome à lista ab
 ## Participantes
 - João César Antunes Viveiros
 - (Edson Júnior — Front-End))
-
 - Davi Rodrigues do santos Cariolano
-- (adicione seu nome aqui seguindo as instruções acima)
-Jéssica Sousa - Frontend
-Ana Souza
-Matheus Sales — Front-end)
+- Jéssica Sousa - Frontend
+- Ana Souza
+- Matheus Sales — Front-end)
