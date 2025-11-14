@@ -1,5 +1,3 @@
-# Turma
-
 # Turma Frontend — [2025]
 Bem-vindo(a)! Missão: clonar este repositório e adicionar seu nome à lista abaixo.
 
