@@ -18,5 +18,6 @@ Bem-vindo(a)! Missão: clonar este repositório e adicionar seu nome à lista ab
 
 - Davi Rodrigues do santos Cariolano
 - (adicione seu nome aqui seguindo as instruções acima)
+Jéssica Sousa - Frontend
 Ana Souza
 Matheus Sales — Front-end)
