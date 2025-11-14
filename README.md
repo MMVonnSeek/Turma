@@ -14,6 +14,7 @@ Bem-vindo(a)! Missão: clonar este repositório e adicionar seu nome à lista ab
 7. Aguarde revisão — **não** faça merge por conta própria.
 
 ## Participantes
+- João César Antunes Viveiros
 - (Edson Júnior — Front-End))
 
 - Davi Rodrigues do santos Cariolano
