@@ -13,6 +13,15 @@ Bem-vindo(a)! Missão: clonar este repositório e adicionar seu nome à lista ab
 6. No PR, coloque o título: `Adicionar nome — Nome Completo`.
 7. Aguarde revisão — **não** faça merge por conta própria.
 
+---
+
+## Autor
+Professor: Max Müller
+
+Se este projeto ajudou você a evoluir, deixe uma ⭐ e compartilhe o conhecimento. Obrigado por usar este repositório!
+
+---
+
 ## Participantes
 - João César Antunes Viveiros
 - (Edson Júnior — Front-End))
