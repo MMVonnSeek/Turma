@@ -1,4 +1,4 @@
-# Turma Frontend — [2025]
+# Desafio para a Turma 
 ![Material_do_Professor_Max](https://img.shields.io/badge/Material_do_Professor_Max-Oficial-4c1?logo=google-scholar&logoColor=white)
 
 Bem-vindo(a)! Missão: clonar este repositório e adicionar seu nome à lista abaixo.
